@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'OysterCloud2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E44847AE0694D4D8B6FED47C98799F5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2ADAF613DDAE4F569545B5D785EFE559 }}
